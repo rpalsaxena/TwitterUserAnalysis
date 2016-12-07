@@ -1,6 +1,6 @@
 # TwitterUserAnalysis
 
-TwitterUserAnalysis analysises twitter user behaviour and come up with these below results.
+TwitterUserAnalysis analyses twitter user behaviour and come up with these below results.
 
 * User follower count
 * User following count
